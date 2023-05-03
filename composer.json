@@ -12,9 +12,6 @@
         }
     ],
     "version": "1.0.0",
-    "require": {
-        "humcommerce/core":"^1.0.0"
-    },
     "keywords":[
         "Magento 2"
     ],
